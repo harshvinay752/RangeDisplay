@@ -1,4 +1,4 @@
-# RangeDisplay 2021.7
+# RangeDisplay 2021.7.1
 
 2D Fractional display widget for Python Tkinter GUI developement.
 
@@ -7,13 +7,13 @@
 + Dimensions and Colour customisable
 
 # Preview
-[![N|Solid](https://github.com/harshvinay752/RangeDisplay/blob/main/plot.PNG?raw=true)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/harshvinay752/RangeDisplay/blob/main/plot.PNG?raw=true)](https://github.com/harshvinay752/RangeDisplay/)
 
 ## Usage
 
 ***Importing display***
 ```
-from RangeDisplay import RangeDisplay
+from RangeDisplay.RangeDisplay import RangeDisplay
 ```
 
 ***Creating RangeDisplay widget:***
